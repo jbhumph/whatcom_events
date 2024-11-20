@@ -41,7 +41,7 @@
   - [Zoom link](https://whatcom-edu.zoom.us/j/84752586830?pwd=ODFhRGhTQVdwM2IvN3B2dE9GZHJmdz09)
   - 3PM - 4PM
 
- - 12/04/2024 **Monthly Women in Tech Lunchtime Chat**
+- 12/04/2024 **Monthly Women in Tech Lunchtime Chat**
   - Join the TAG NW / NW Tech Women community for our remote monthly hangout. We chat about our work, career development, and anything else that comes to mind. Build community and network connections that can bring joy and career momentum!
   - 12PM - 1PM
 
@@ -53,3 +53,11 @@
 
 
 ## Organizations
+
+- Women in Cybersecurity (WiCyS) - Whatcom Community College Club
+  - WCC club promoting women in the field of cybersecurity.
+  - [WiCyS](https://www.wicys.org/) started in 2013 by Dr. Ambareen Siraj through a National Science Foundation grant awarded to Tennessee Tech University. In less than ten short years, it has grown into an organization representing a leading alliance between trailblazers from academia, government and industry.
+
+- Technology Alliance Group Northwest (TAG NW)
+  - Technology Alliance Group for Northwest Washington (TAGNW) is a 501(c)(3) nonprofit organization located in Bellingham, WA focused on technology education and community engagement. We provide programs, services, and events to both Strengthen Our Technology Community, and Serve Our Community with Technology!
+  - [TAG NW](https://www.tagnw.org/)
