@@ -33,7 +33,7 @@
 
 - 12/04/2024 **Northwest Tech Women (Online Meetup)**
   - Monthly meeting
-  - [RSVP at Meetup]([https://whatcom-edu.zoom.us/j/84752586830?pwd=ODFhRGhTQVdwM2IvN3B2dE9GZHJmdz09](https://www.meetup.com/nw-tech-women))
+  - [RSVP at Meetup](https://www.meetup.com/nw-tech-women)
   - 12PM - 1PM
 
 - 12/04/2024 **WCC WiCyS Club Zoom Meeting**
